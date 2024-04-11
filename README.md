@@ -2,9 +2,6 @@
 
 Livro Caixa é um sistema simples baseado em PHP/MySQL para o controle mensal de seu caixa.
 
-Teve como idéia inicial o projeto Livro-Caixa de Felipe Ismael Barth (fibbarth)
-https://github.com/fibbarth
-
 Algumas melhorias:
 * Inclusão da Bootstrap
 * Inclusão do phpSecurePages
@@ -91,8 +88,5 @@ Senha: 123456
 #### Facebook
 * [Acessando API Facebook](https://imasters.com.br/back-end/acessando-api-facebook-em-php-com-o-php-graph-sdk)
 
-### Créditos
-* Felipe Barth fibbarth@gmail.com
-* Augusto Cezar Perez augustoperez696@live.com
-* Alexandre LLemes - alexandre.llemes@gmail.com
+
 
